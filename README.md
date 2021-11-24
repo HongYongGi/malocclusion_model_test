@@ -19,9 +19,8 @@
 ## 디렉토리 구조
 
 
+![image](https://user-images.githubusercontent.com/39263586/143270001-a1df2b55-6470-43fd-ad41-92d52143924c.png)
 
-                       
-![image](https://user-images.githubusercontent.com/39263586/143190629-70b3bec3-ffdf-40df-b549-862b8af9f767.png)
 
 
 ## Inference 결과
