@@ -22,3 +22,8 @@
 
                        
 ![image](https://user-images.githubusercontent.com/39263586/143190629-70b3bec3-ffdf-40df-b549-862b8af9f767.png)
+
+
+## Inference 결과
+
+* https://www.notion.so/mmmil/Model-Inference-8691df6a663b4c9d8be669e23a4ff89c
