@@ -1,0 +1,26 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - xlrd
+  - scipy
+  - pandas
+  - numpy
+  - openpyxl
+  - pillow
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - markdown
+  - tqdm
+  - beautifulsoup4
+  - jupyter
+  - jupyterlab
+  - nodejs
+  - opencv
+  - tensorflow-gpu
+  - tensorflow
+prefix: /root/miniconda3
