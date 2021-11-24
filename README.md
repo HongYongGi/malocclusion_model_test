@@ -19,11 +19,6 @@
 ## 디렉토리 구조
 
 
-Inference_model -- data-- Test_40
-                 |      └- label_40.csv
-                 |     └- Test_50
-                 |     └- label_50.csv
-                 └-model -- 2021.11.24 --model.hdf5  &weight.hdf5     
-                 |
-                 └Inference_model.py
+
                        
+![image](https://user-images.githubusercontent.com/39263586/143190629-70b3bec3-ffdf-40df-b549-862b8af9f767.png)
